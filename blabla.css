@@ -1,9 +1,25 @@
-body {
+.card-pf {
+    font-family: marianne !important;
+    justify-content: center !important;
+}
+.MuiTypography-root{
   font-family: marianne !important;
 }
-.card-pf {
-    justify-content: center !important;
+.MuiFormControl-root{
+  font-family: marianne !important;
+}
+.MuiFormLabel-root{
+  font-family: marianne !important;
+}
+.MuiButton-root{
+  font-family: marianne !important;
 }
 #kc-logo-wrapper {
     align-items: flex-start;
+}
+#desktop-sub-title {
+  font-family: marianne !important;
+}
+#desktop-main-title {
+  font-family: marianne !important;
 }
