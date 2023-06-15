@@ -1,5 +1,5 @@
 body {
-  font-family: marianne;
+  font-family: marianne !important;
 }
 .card-pf {
     justify-content: center !important;
