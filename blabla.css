@@ -1,3 +1,6 @@
 .card-pf {
     justify-content: center !important;
 }
+#kc-logo-wrapper {
+    align-items: flex-start;
+}
